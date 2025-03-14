@@ -47,5 +47,11 @@ The analysis follows these steps:
 
 However, since ROC-AUC p = 0.0746 is close to 0.05, there may be a weak effect on model discrimination at a 90% confidence level.
 
+
+## Installation
+Clone the repository and install dependencies using:
+```bash
+pip install -r requirements.txt
+
 ## Usage
 To run the analysis, execute the Jupyter Notebook `CreditRisk.ipynb` in a Python environment with required dependencies installed.
